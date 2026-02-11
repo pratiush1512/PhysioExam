@@ -1,0 +1,8 @@
+PyPDF2
+pdfplumber
+pdf2image
+pytesseract
+Pillow
+requests
+ttkbootstrap
+streamlit
